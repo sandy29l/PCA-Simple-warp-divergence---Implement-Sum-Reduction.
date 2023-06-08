@@ -18,10 +18,6 @@ size and execution configurations.
 ## Program:
 ## reduceInteger.cu:
 ```
-Name : P.Pradeep Raj
-Register No: 212222240073
-```
-```
 #include "common.h"
 #include <cuda_runtime.h>
 #include <stdio.h>
